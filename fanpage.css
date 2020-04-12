@@ -1,0 +1,55 @@
+<style>
+
+          
+      
+          h1 {
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            font-size: larger;
+          }
+      
+          h2 {
+            color: white;
+            font-weight: bold;
+          }
+      
+          .styledFont {
+            color: green;
+          }
+
+          h3 {
+            color: white;
+            font-weight: bold;
+          }
+
+          h4 {
+            color: white;
+            font-weight: bold;
+            font-size: large;
+            text-align: center;
+          }
+
+          p {
+            font-family: cursive;
+          }
+
+          li {
+            font-family: cursive;
+          }
+
+          img {
+            border-width: 0.3cm;
+            border-style: solid;
+            border-color: pink;
+            
+          }
+
+          img.lover {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          }
+      
+        </style>
